@@ -1,0 +1,24 @@
+{
+  "name": "hmap-lexer",
+  "version": "0.0.1",
+  "description": "A hmap lexer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmapjs/hmap-lexer.git"
+  },
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmapjs/hmap-lexer/issues"
+  },
+  "homepage": "https://github.com/hmapjs/hmap-lexer#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "character-parser": "^2.2.0",
+    "is-expression": "^3.0.0"
+  }
+}
